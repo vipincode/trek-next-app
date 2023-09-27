@@ -4,13 +4,15 @@
 
 [Link](https://refine.dev/blog/nextauth-google-github-authentication-nextjs/#introduction)
 [Link](https://www.youtube.com/watch?v=w2h54xz6Ndw)
+[Link](https://www.youtube.com/watch?v=9bV_x2jxLFQ)
 [Role based Auth](https://www.youtube.com/watch?v=ay-atEUGIc4)
 
-## openssl rand -base64 32 create random code
+## `openssl rand -base64 32` create random code
 
 ## GIT API
 
 - `http://localhost:3000/api/auth/providers`
+- `https://github.com/nextauthjs/next-auth/discussions/7491`
 
 ## Making Post Method
 

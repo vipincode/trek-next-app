@@ -29,7 +29,10 @@ export default function SignIn() {
 	}
 
 	return (
-		<div className="min-h-screen flex justify-center items-center">
+		<div className="min-h-screen flex justify-center flex-col items-center">
+			<div className="mb-10">
+				<button onClick={() => signIn('github')}>Sign in with GitHub</button>
+			</div>
 			<form className="flex flex-col gap-4 w-full lg:w-[400px] min-h-[300px]">
 				<Input
 					value={formState.email}
